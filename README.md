@@ -4,10 +4,10 @@ This repository indexes two implementations of data structures and adaptive algo
 
 ## Related Repositories
 
-1.  **[Trie-Compressed Intersectable Sets](https://github.com/anonymoususeracm/compressed_binary_tries)**
+1.  **[Trie-Compressed Intersectable Sets](https://github.com/jpcastillog/compressed-binary-tries)**
     * Implements the BTries, rBTrie, H-TrieC, and rH-TrieC data structures, along with adaptive algorithms for processing intersection queries on these structures.
 
-2.  **[Intersectable Sets with BK and BF](https://github.com/anonymoususeracm/intersectable_sets_BK_BF)**
+2.  **[Intersectable Sets with BK and BF](https://github.com/jmcazorla/binary_tries_BK_BF)**
     * Implements the H-TrieL and rH-TrieL data structures, and adaptive algorithms for processing intersection queries on these structures.
 
 ## Instructions
